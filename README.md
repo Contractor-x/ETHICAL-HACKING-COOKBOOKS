@@ -34,7 +34,8 @@ For bigger files, consider using alternative file-sharing methods and linking th
 🚀 **Unleash your inner hacker. Start exploring the cookbook today!** 🛠  
 
 Let me know if you want to fine-tune this further! 🔥
-# Contributors
+### Contributors
 ---
 **Moh-dakai**
+
 **Contractor-x**
