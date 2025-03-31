@@ -1,4 +1,4 @@
-s a **highly enticing** and **
+s a **highly enticing
 ---
 
 # **📖 ETHICAL HACKING COOKBOOKS** 🚀  
