@@ -26,13 +26,13 @@ Help us expand this **hacker’s knowledge base** by contributing your expertise
 
 ### ⚠️ **File Upload Limit**  
 GitHub **limits file uploads to 25MB**, so large files **can't be uploaded directly**.  
-For bigger files, consider using alternative file-sharing methods and linking them here.  
+
 
 ---
 
 🚀 **Unleash your inner hacker. Start exploring the cookbook today!** 🛠  
 
-Let me know if you want to fine-tune this further! 🔥
+
 ### Contributors
 ---
 **Moh-dakai**
