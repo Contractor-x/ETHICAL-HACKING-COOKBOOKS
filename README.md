@@ -1,4 +1,4 @@
-Here’s a **highly enticing** and **well-structured** 
+Here’s a **highly enticing** and **well-
 ---
 
 # **📖 ETHICAL HACKING COOKBOOKS** 🚀  
