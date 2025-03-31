@@ -1,4 +1,4 @@
-Here’s a **highly enticing** and **well-structured** README for your **ETHICAL-HACKING- 
+Here’s a **highly enticing** and **well-structured** README for your **ETHICAL
 ---
 
 # **📖 ETHICAL HACKING COOKBOOKS** 🚀  
