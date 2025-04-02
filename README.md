@@ -35,6 +35,6 @@ GitHub **limits file uploads to 25MB**, so large files **can't be uploaded direc
 
 ### Contributors
 ---
-**Moh-dakai**
+- **Moh-dakai**
 
 **Contractor-x**
