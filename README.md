@@ -21,7 +21,7 @@
 🔹 **Community-Driven** – Contributions are always welcome!  
 
 ### 📌 **Contributing**  
-Got a **killer script, technique, or guide**? **Drop it here!**  
+- Got a **killer script, technique, or guide**? **Drop it here!**  
 Help us expand this **hacker’s knowledge base** by contributing your expertise.  
 
 ### ⚠️ **File Upload Limit**  
