@@ -28,3 +28,15 @@ Hydra is perfect for SSH, FTP, HTTP, and more.
 
 ⚠️ Wordlists and dumps may exceed 25MB—external links are your friend!
 
+---
+
+# ⚔️ John the Ripper  
+A classic. A legend. Still cracking strong. 🛠️  
+Master both the community and jumbo versions of John!  
+
+🔹 Covers: Format types, cracking modes, rule tuning, and password audit workflows.  
+🔥 Got configs, rules, or cracked sample hashes? Help others learn—contribute!  
+
+⚠️ GitHub caps file uploads at 25MB. Use cloud storage links when necessary.
+
+
