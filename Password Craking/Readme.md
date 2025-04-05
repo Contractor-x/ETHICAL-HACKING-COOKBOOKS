@@ -16,3 +16,15 @@ Create custom wordlists tailored to your target with surgical precision. 🎯
 🧠 Share your templates and help sharpen the collective mind of the community.  
 
 ⚠️ Big lists = big size. GitHub’s 25MB limit applies—use cloud links if needed.
+
+---
+
+# 🐉 Hydra – The Login Cracker  
+Brute-force online services with speed and stealth. 🔓  
+Hydra is perfect for SSH, FTP, HTTP, and more.  
+
+🔹 Includes: Module usage, syntax examples, evasion tactics, and output parsing.  
+💡 Know a tricky target? Share your experience and custom scripts!  
+
+⚠️ Wordlists and dumps may exceed 25MB—external links are your friend!
+
