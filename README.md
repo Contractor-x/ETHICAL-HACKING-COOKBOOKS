@@ -3,7 +3,7 @@
 
 # **ETHICAL HACKING COOKBOOKS** 
 
-## 🔥 **A Hacker’s Ultimate Cookbook**  
+##  **A Hacker’s Ultimate Cookbook** 🔥 
 - Welcome to the **ETHICAL-HACKING-COOKBOOKS** – a **meticulously curated** and **properly documented** collection of ethical hacking playbooks, scripts, and resources, tailored for **Kali Linux users** and security enthusiasts.  
 
 ### 🛠 **What You’ll Find Here**  
@@ -14,8 +14,9 @@
 ✅ **OSINT & Reconnaissance** – Finding Targets Before They Find You  
 ✅ **Hardware Hacking** – RFID, USB Attacks, and Firmware Reversing  
 ✅ **Cyber Operations** – Advanced Tactics for Red, Blue, and Purple Teams  
+✅ **Password Cracking** - Practical methods for High- profile security passwords.
 
-### ⚡ **Why This Cookbook?**  
+###⚡ **Why This Cookbook?**  
 🔹 **Well-Documented** – No messy scripts, everything is structured & explained  
 🔹 **Hands-On** – Learn by doing, with practical examples & real-world scenarios  
 🔹 **Community-Driven** – Contributions are always welcome!  
