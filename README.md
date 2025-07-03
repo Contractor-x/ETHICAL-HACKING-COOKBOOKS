@@ -21,7 +21,7 @@
 🔹 **Hands-On** – Learn by doing, with practical examples & real-world scenarios  
 🔹 **Community-Driven** – Contributions are always welcome!  
 
-### 📌 **Contributing**  
+###  **Contributing**  
 - Got a **killer script, technique, or guide**? **Drop it here!**  
 - Help us expand this **hacker’s knowledge base** by contributing your expertise.  
 
