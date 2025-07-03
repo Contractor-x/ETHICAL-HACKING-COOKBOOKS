@@ -31,7 +31,7 @@ GitHu **limits file uploads to 25MB**, so large files **can't be uploaded direct
 
 ---
 
-🚀 **Unleash your inner hacker. Start exploring the cookbook today!** 🛠  
+**Unleash your inner hacker. Start exploring the cookbook today!** 🛠  
   **The Repo is actively maintained.the full compilation link will bw released soon**
 ---
 
