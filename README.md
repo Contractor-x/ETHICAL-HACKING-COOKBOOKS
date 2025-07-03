@@ -3,7 +3,7 @@
 
 # **ETHICAL HACKING COOKBOOKS** 
 
-##  **T Hacker’s Ultimate Cookbook** 🔥 
+##  **Th Hacker’s Ultimate Cookbook** 🔥 
 - Welcome to the **ETHICAL-HACKING-COOKBOOKS** – a **meticulously curated** and **properly documented** collection of ethical hacking playbooks, scripts, and resources, tailored for **Kali Linux users** and security enthusiasts.  
 
 ### 🛠 **What You’ll Find Here**  
