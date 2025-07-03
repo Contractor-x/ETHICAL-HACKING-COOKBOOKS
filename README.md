@@ -16,7 +16,7 @@
 ✅ **Cyber Operations** – Advanced Tactics for Red, Blue, and Purple Teams  
 ✅ **Password Cracking** - Practical methods for High- profile security passwords.
 
-###⚡ **Why This Cookbook?**  
+### **Why This Cookbook?**  
 🔹 **Well-Documented** – No messy scripts, everything is structured & explained  
 🔹 **Hands-On** – Learn by doing, with practical examples & real-world scenarios  
 🔹 **Community-Driven** – Contributions are always welcome!  
