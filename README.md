@@ -42,4 +42,4 @@ GitHu **limits file uploads to 25MB**, so large files **can't be uploaded direct
 - **Contractor-x**
 
 ## Upcoming 
- **The addition of an upload link containing everything**
+ **The addition of an upload link containing every pdf needed**
