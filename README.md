@@ -25,8 +25,8 @@
 - Got a **killer script, technique, or guide**? **Drop it here!**  
 - Help us expand this **hacker’s knowledge base** by contributing your expertise.  
 
-### ⚠️ **File Upload Limit**  
-GitHub **limits file uploads to 25MB**, so large files **can't be uploaded directly**.  
+###  **File Upload Limit**  
+GitHu **limits file uploads to 25MB**, so large files **can't be uploaded directly**.  
 
 
 ---
